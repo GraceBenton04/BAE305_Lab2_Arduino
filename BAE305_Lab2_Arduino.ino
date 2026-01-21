@@ -35,6 +35,3 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
-const int PWMB = 10
-const int BIN2 = 9
-const int BIN1 = 8
